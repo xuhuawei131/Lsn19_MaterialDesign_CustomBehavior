@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\AndroidStudioProjects\\Lsn19_MaterialDesign_CustomBehavior\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\AndroidStudioProjects\\Lsn19_MaterialDesign_CustomBehavior\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior/E:\\AndroidStudioProjects\\Lsn19_MaterialDesign_CustomBehavior\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/lingdian/AndroidStudioProjects/Lsn19_MaterialDesign_CustomBehavior/E:\\AndroidStudioProjects\\Lsn19_MaterialDesign_CustomBehavior\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
